@@ -37,4 +37,4 @@ Bib2JSON converter is a simple Python script for transforming BibTeX files into 
 
 3. **Eat the JSON Data:**
 
-   Your BibTeX data will now be available in JSON format, ready to be used in your research, applications, projects, or whatever.
+   Your BibTeX data will now be available in JSON format, ready to be used in your research, applications, projects, or whatever...
